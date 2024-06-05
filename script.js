@@ -6,38 +6,39 @@ const caixaResultado = document.querySelector(".caixa-resultado");
 const textoResultado = document.querySelector(".texto-resultado");
 const perguntas = [
     {
-        enunciado: "qual e a seleção que mais tem titulos de Copa do mundo",
+        enunciado: "Assim que terminou a temporada, o corinthians planeja fazer uma reformulação no elenco , então ele está pensando em contratar dois meias, Quais contratar?",
         alternativas: [
-            "alemanha",
-            "brasil"
+            "igor Coronado",
+            "Rodrigo Garro"
         ]
     },
     {
-        enunciado: "qual o maior artilheiro da historia da Copa do mundo ",
+        enunciado: "Com a divida do Corinthians, ele planeja diminuir a divida com a entradado novo presidente, quem seria um bom nome para a presidencia do Corinthians?",
         alternativas: [
-            "Miroslav Klose  ",
-            "Ronaldo Fenômeno "
+            "augusto Melo",
+            "André Negão"
         ]
     },
     {
-        enunciado: "Qual o jogador que mais tem titulo da copa do mundo"
+        enunciado: "com a saída do Cassio do Corinthians, o timão busca colocar um goleiro do elenco corintiano,qual seria um bom nome? "
+    ",
         alternativas: [
-            "Pelé",
-            "Cafu"
+            "Carlos Miguel",
+            "Felipe Longo"
         ]
     },
     {
-        enunciado: "Qual pais foi campeão no ano de 1998",
+        enunciado: "Com o fim do Paulistão, o corinthians busca melhorar seu elenco, e com isso busca um novo treinador, Qual seria o melhor nome?",
         alternativas: [
-            "França",
-            "Alemanha"
+            "Antonio Oliveira",
+            "Mano Menezes"
         ]
     },
     {
-        enunciado: "Quem foi o primeiro campeão da copa do mundo  ",
+        enunciado: "O corinthians buca um titulo que ainda é inedito na sua enorme pratileira de troféus, e com isso e ele ganhar esse titulo, ele vai se consagrar campeão de tudo, Qual titulo que falta?",
         alternativas: [
-            "Uruguai",
-            "Brasil"
+            "Sudamericana",
+            "Libertadores"
         ]
     }
 ]
