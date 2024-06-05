@@ -6,39 +6,39 @@ const caixaResultado = document.querySelector(".caixa-resultado");
 const textoResultado = document.querySelector(".texto-resultado");
 const perguntas = [
     {
-        enunciado: "Assim que terminou a temporada, o corinthians planeja fazer uma reformulação no elenco , então ele está pensando em contratar dois meias, Quais contratar?",
+        enunciado: "qual o maior artilheiro a copa do mundo",
         alternativas: [
-            "igor Coronado",
-            "Rodrigo Garro"
+            "Miroslav Klose ",
+            "Ronaldo fenomeno"
         ]
     },
     {
-        enunciado: "Com a divida do Corinthians, ele planeja diminuir a divida com a entradado novo presidente, quem seria um bom nome para a presidencia do Corinthians?",
+        enunciado: "Qual a seleção com mais titulos de copa do mundo",
         alternativas: [
-            "augusto Melo",
-            "André Negão"
+            "Brasil",
+            "Alemanha"
         ]
     },
     {
-        enunciado: "com a saída do Cassio do Corinthians, o timão busca colocar um goleiro do elenco corintiano,qual seria um bom nome? "
+        enunciado: "qual seleção que ganhou a copa de 1998? "
     ",
         alternativas: [
-            "Carlos Miguel",
-            "Felipe Longo"
+            "França",
+            "Brasil"
         ]
     },
     {
-        enunciado: "Com o fim do Paulistão, o corinthians busca melhorar seu elenco, e com isso busca um novo treinador, Qual seria o melhor nome?",
+        enunciado: "Qual o jogador com amis titulos de copa do mundo",
         alternativas: [
-            "Antonio Oliveira",
-            "Mano Menezes"
+            "Pelé",
+            "Cafu"
         ]
     },
     {
-        enunciado: "O corinthians buca um titulo que ainda é inedito na sua enorme pratileira de troféus, e com isso e ele ganhar esse titulo, ele vai se consagrar campeão de tudo, Qual titulo que falta?",
+        enunciado: "qual a seleçao com mais titulos de copa do mundo ,
         alternativas: [
-            "Sudamericana",
-            "Libertadores"
+            "Brasil",
+            "Alemanha"
         ]
     }
 ]
